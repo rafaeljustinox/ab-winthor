@@ -2,16 +2,24 @@
   "name": "ab-winthor",
   "version": "1.0.0",
   "description": "Utilitários do Winthor",
-  "types": "./lib/index.d.ts",
-  "main": "index.js",
+  "types": "dist/index.d.ts",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "prepare": "npm run build"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rafaeljustinox/ab-winthor.git"
   },
-  "keywords": ["winthor", "totvs", "anbetec"],
+  "keywords": [
+    "winthor",
+    "totvs",
+    "anbetec"
+  ],
   "author": {
     "email": "rafael01justino@gmail.com",
     "name": "Rafael Justino",
@@ -21,5 +29,11 @@
   "bugs": {
     "url": "https://github.com/rafaeljustinox/ab-winthor/issues"
   },
-  "homepage": "https://github.com/rafaeljustinox/ab-winthor#readme"
+  "homepage": "https://github.com/rafaeljustinox/ab-winthor#readme",
+  "devDependencies": {
+    "ts-node-dev": "^1.1.6",
+    "tslint": "^6.1.3",
+    "typescript": "^4.3.4"
+  },
+  "dependencies": {}
 }
