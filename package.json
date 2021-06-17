@@ -1,0 +1,25 @@
+{
+  "name": "ab-winthor",
+  "version": "1.0.0",
+  "description": "Utilitários do Winthor",
+  "types": "./lib/index.d.ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaeljustinox/ab-winthor.git"
+  },
+  "keywords": ["winthor", "totvs", "anbetec"],
+  "author": {
+    "email": "rafael01justino@gmail.com",
+    "name": "Rafael Justino",
+    "url": "http://rafaeljustino.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaeljustinox/ab-winthor/issues"
+  },
+  "homepage": "https://github.com/rafaeljustinox/ab-winthor#readme"
+}
