@@ -24,10 +24,4 @@ export interface PCPEDI {
    */
   QT?: number
 
-  /**
-   * Valor total
-   */
-  VLTOTAL?: number
-
 }
-
