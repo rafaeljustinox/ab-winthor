@@ -1,3 +1,5 @@
+0.0.3   Updated README
+
 0.0.2   Added PCCLIENT
 
 0.0.1   Fixed exports

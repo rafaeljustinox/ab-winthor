@@ -2,11 +2,8 @@
 
   Utilitários do Winthor para [node](http://nodejs.org).
   
-  [![NPM Version][npm-image]][npm-url]
-  [![NPM Downloads][downloads-image]][downloads-url]
-  [![Linux Build][travis-image]][travis-url]
-  [![Windows Build][appveyor-image]][appveyor-url]
-  [![Test Coverage][coveralls-image]][coveralls-url]
+  [![pub package](https://badgen.net/npm/v/ab-winthor)](https://www.npmjs.com/package/ab-winthor)
+  [![pub package](https://badgen.net/npm/types/ab-winthor)](https://www.npmjs.com/package/ab-winthor)
 
 
 ```ts
