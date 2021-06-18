@@ -20,7 +20,7 @@ const cliente: Winthor.PCCLIENT = {
 
 Este é um módulo [Node.js](https://nodejs.org/en/) disponível através do [npm registry](https://www.npmjs.com/).
 
-Se for um projeto novo, certifique-se de criar um arquivo `package.json` primeiro através do comando [`npm init` command](https://docs.npmjs.com/creating-a-package-json-file).
+Se for um projeto novo, certifique-se de criar um arquivo `package.json` primeiro através do comando [`npm init`](https://docs.npmjs.com/creating-a-package-json-file).
 
 A instalação é feita utilizando 
 [`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
