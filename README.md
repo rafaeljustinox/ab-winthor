@@ -23,7 +23,7 @@ Este é um módulo [Node.js](https://nodejs.org/en/) disponível através do [np
 Se for um projeto novo, certifique-se de criar um arquivo `package.json` primeiro através do comando [`npm init`](https://docs.npmjs.com/creating-a-package-json-file).
 
 A instalação é feita utilizando 
-[`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
+[`npm install`](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
 
 ```bash
 $ npm install ab-winthor

@@ -1,6 +1,6 @@
 {
   "name": "ab-winthor",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Utilitários do Winthor",
   "types": "dist/index.d.ts",
   "main": "dist/index.js",
