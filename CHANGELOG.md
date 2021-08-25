@@ -1,3 +1,5 @@
+0.0.8   Added basic PCFORNEC
+
 0.0.7   Fixed PCPEDI
 
 0.0.6   Updated README
